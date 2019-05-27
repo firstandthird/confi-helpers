@@ -9,7 +9,7 @@
     "url": "https://github.com/firstandthird/confi-helpers.git"
   },
   "dependencies": {
-    "ms": "^2.1.1",
+    "ms": "^2.1.1"
   },
   "devDependencies": {
     "varson": "^2.1.0",
