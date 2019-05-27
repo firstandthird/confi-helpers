@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "ms": "^2.1.1",
-    "varson": "^2.1.0"
   },
   "devDependencies": {
+    "varson": "^2.1.0",
     "eslint": "^5.16.0",
     "eslint-config-firstandthird": "^4.3.0",
     "eslint-plugin-import": "^2.9.0",
