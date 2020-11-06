@@ -1,10 +1,10 @@
 <h1 align="center">Confi Helpers</h1>
 
 <p align="center">
-  <a href="https://github.com/firstandthird/eslint-config-firstandthird/actions">
+  <a href="https://github.com/firstandthird/confi-helpers/actions">
     <img src="https://img.shields.io/github/workflow/status/firstandthird/confi-helpers/Test/main?label=Tests&style=for-the-badge" alt="Test Status"/>
   </a>
-  <a href="https://github.com/firstandthird/eslint-config-firstandthird/actions">
+  <a href="https://github.com/firstandthird/confi-helpers/actions">
     <img src="https://img.shields.io/github/workflow/status/firstandthird/confi-helpers/Lint/main?label=Lint&style=for-the-badge" alt="Lint Status"/>
   </a>
 </p>
